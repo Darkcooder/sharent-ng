@@ -1,6 +1,10 @@
 {
   "name": "ng-sharent",
+  "displayName": "Sharent Client (Angular version)",
+  "description": "Sharent booking service",
   "version": "0.0.0",
+  "author": "Vladimir Bugorkov",
+  "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
